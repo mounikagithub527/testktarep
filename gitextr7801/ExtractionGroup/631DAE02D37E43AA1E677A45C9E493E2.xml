@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DocumentGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>631DAE02D37E43AA1E677A45C9E493E2</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>ft</Name>
+  </Identity>
+  <Name>ft</Name>
+  <Description />
+  <Status>Released</Status>
+  <IsShared>false</IsShared>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+  </Category>
+  <DocumentTypes>
+    <DocumentType>
+      <Identity>
+        <Id>05301F7045C8C7089CF7CBDBC9EE1B83</Id>
+        <Version>1</Version>
+        <Name>Document Type 4</Name>
+      </Identity>
+      <Name>Document Type 4</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>true</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs />
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>8AD65ECA23E0EF616CC86AF244A27FD0</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>05B8630F6725001F1F809F853A6F72C4</Id>
+        <Version>1</Version>
+        <Name>Document Type 1</Name>
+      </Identity>
+      <Name>Document Type 1</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>false</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>false</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Formatter>
+                    <Id>6CF7C2345ED84D20903E8A707156FAA5</Id>
+                    <Name>Default Amount Formatter</Name>
+                  </Formatter>
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>false</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs />
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>false</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>4D0B00720019CF8ABC3997C52133DA27</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <TemplateImage>
+        <Id />
+        <Name />
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </TemplateImage>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>28E62A49B18A054C363DB9077AD3A9FE</Id>
+        <Version>1</Version>
+        <Name>Document Type 7</Name>
+      </Identity>
+      <Name>Document Type 7</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Formatter>
+                    <Id>B804409857E8C633ACEE4CE5249BD888</Id>
+                    <Name>TruncateToLength</Name>
+                  </Formatter>
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>FIELDTEXT</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>String</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>LENGTH</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>Long</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                  </FormatterInputs>
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>C5C6F2996A43EDC5BE91E43462269BAC</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>4D0B00720019CF8ABC3997C52133DA27</Id>
+        <Version>1</Version>
+        <Name />
+      </Identity>
+      <Name />
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups />
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <TemplateImage>
+        <Id />
+        <Name />
+        <AssetType>Image</AssetType>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <StorageId>0</StorageId>
+      </TemplateImage>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>5B0A2799285371C5F6FFF301266815CE</Id>
+        <Version>1</Version>
+        <Name>Document Type 6</Name>
+      </Identity>
+      <Name>Document Type 6</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs />
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>05301F7045C8C7089CF7CBDBC9EE1B83</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>8AD65ECA23E0EF616CC86AF244A27FD0</Id>
+        <Version>1</Version>
+        <Name>Document Type 2</Name>
+      </Identity>
+      <Name>Document Type 2</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Formatter>
+                    <Id>B804409857E8C633ACEE4CE5249BD888</Id>
+                    <Name>TruncateToLength</Name>
+                  </Formatter>
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>FIELDTEXT</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>String</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>LENGTH</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>Long</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                  </FormatterInputs>
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>05B8630F6725001F1F809F853A6F72C4</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>8B383189B4FDFB1AD3270CB5E3C30FCA</Id>
+        <Version>1</Version>
+        <Name>Document Type 3</Name>
+      </Identity>
+      <Name>Document Type 3</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Formatter>
+                    <Id>B804409857E8C633ACEE4CE5249BD888</Id>
+                    <Name>TruncateToLength</Name>
+                  </Formatter>
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>FIELDTEXT</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>String</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>LENGTH</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>Long</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                  </FormatterInputs>
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>8AD65ECA23E0EF616CC86AF244A27FD0</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>94F4296D5808DC67D806C4E37C31F35F</Id>
+        <Version>1</Version>
+        <Name>Document Type 8</Name>
+      </Identity>
+      <Name>Document Type 8</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Formatter>
+                    <Id>B804409857E8C633ACEE4CE5249BD888</Id>
+                    <Name>TruncateToLength</Name>
+                  </Formatter>
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>FIELDTEXT</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>String</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>LENGTH</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>Long</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                  </FormatterInputs>
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>C5C6F2996A43EDC5BE91E43462269BAC</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+    <DocumentType>
+      <Identity>
+        <Id>C5C6F2996A43EDC5BE91E43462269BAC</Id>
+        <Version>1</Version>
+        <Name>Document Type 5</Name>
+      </Identity>
+      <Name>Document Type 5</Name>
+      <Description />
+      <Status>Released</Status>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>E179B1254DB2DFCFA8DD162E96A036D1</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9629E0F475A15FBFA8EA20AFDB2E8813</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+            <CaptureField xsi:type="TableField">
+              <Identity>
+                <Id>796992065E2B1FBCBB6EE59CD584AD99</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD2</Name>
+              <DisplayName>Field2</DisplayName>
+              <Description />
+              <FieldType>Table</FieldType>
+              <Validators />
+              <Formatter>
+                <Id />
+                <Name />
+              </Formatter>
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <FieldColumns>
+                <CaptureField xsi:type="SimpleField">
+                  <Identity>
+                    <Id>53D8401E1026D30EE715362983783323</Id>
+                    <Name />
+                  </Identity>
+                  <Name>COLUMN1</Name>
+                  <DisplayName>Column1</DisplayName>
+                  <Description />
+                  <FieldType>Text</FieldType>
+                  <Validators />
+                  <Formatter>
+                    <Id>B804409857E8C633ACEE4CE5249BD888</Id>
+                    <Name>TruncateToLength</Name>
+                  </Formatter>
+                  <Verification>
+                    <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                    <VerificationMode>Confirm</VerificationMode>
+                    <CanChangeFieldValue>true</CanChangeFieldValue>
+                    <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+                  </Verification>
+                  <IsInherited>true</IsInherited>
+                  <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+                  <AlwaysValid>false</AlwaysValid>
+                  <IsOverridden>false</IsOverridden>
+                  <IsFormatterOverridden>false</IsFormatterOverridden>
+                  <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+                  <Editable>false</Editable>
+                  <IsOptional>false</IsOptional>
+                  <FormatterInputs>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>FIELDTEXT</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>String</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                    <BusinessRuleFormatterInput>
+                      <BusinessRuleInputName>LENGTH</BusinessRuleInputName>
+                      <Value xsi:type="xsd:string" />
+                      <InputType>Long</InputType>
+                      <IsInline>false</IsInline>
+                    </BusinessRuleFormatterInput>
+                  </FormatterInputs>
+                  <FieldGroupName />
+                  <FieldGroupId />
+                  <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+                  <AllFieldChanges>false</AllFieldChanges>
+                  <MaskValueInAnalytics>false</MaskValueInAnalytics>
+                  <MaskImageForHiddenField>false</MaskImageForHiddenField>
+                  <IsPredefinedColumn>false</IsPredefinedColumn>
+                  <DefaultValue xsi:type="xsd:string" />
+                  <ChoiceItemsSource />
+                  <Lookup />
+                </CaptureField>
+              </FieldColumns>
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <DocumentTypeValidator>
+        <Identity>
+          <Id />
+          <Name />
+        </Identity>
+        <DocumentStandardValidator>
+          <Identity>
+            <Id />
+            <Name />
+          </Identity>
+          <FailureMessage />
+          <NumberOfPages>1</NumberOfPages>
+          <PageCountLevel>Exactly</PageCountLevel>
+        </DocumentStandardValidator>
+        <DocumentValidators />
+      </DocumentTypeValidator>
+      <ParentDocumentType>
+        <Id>8AD65ECA23E0EF616CC86AF244A27FD0</Id>
+        <Version>1</Version>
+        <Name />
+      </ParentDocumentType>
+      <HasStandardValidator>false</HasStandardValidator>
+      <PdfSettings>
+        <Title />
+        <SkipFirstPage>false</SkipFirstPage>
+        <Subject />
+        <Author />
+        <Keywords />
+        <Application />
+        <Producer />
+      </PdfSettings>
+      <NameTemplate>[DocumentType]</NameTemplate>
+      <OnlineLearningFolderId />
+      <AutomaticOnlineLearningEnabled>false</AutomaticOnlineLearningEnabled>
+      <Forms />
+      <AvailableForManualClassification>true</AvailableForManualClassification>
+      <TableFieldExportDelimiter>;</TableFieldExportDelimiter>
+      <IsTemplateImageOverriden>false</IsTemplateImageOverriden>
+      <MonitorForClassificationOnlineLearning>false</MonitorForClassificationOnlineLearning>
+      <PostValidationHandler>
+        <IsPostValidationHandlingEnabled>false</IsPostValidationHandlingEnabled>
+        <ProcessIdentity>
+          <Id />
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Version>0</Version>
+          <Name />
+        </ProcessIdentity>
+      </PostValidationHandler>
+      <IsPartial>false</IsPartial>
+    </DocumentType>
+  </DocumentTypes>
+  <LastModifiedDate>2021-06-23T03:08:39.46</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Mounika.Vallabhaneni</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <RootDocumentType>
+    <Id>4D0B00720019CF8ABC3997C52133DA27</Id>
+    <Version>1</Version>
+    <Name />
+  </RootDocumentType>
+  <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
+  <OnlineLearningSettings>
+    <OnlineLearningMaxNewSamples>2000</OnlineLearningMaxNewSamples>
+    <IsAutomaticOnlineLearningEnabled>false</IsAutomaticOnlineLearningEnabled>
+    <OnlineLearningFolderId />
+  </OnlineLearningSettings>
+  <FuzzyDatabases />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</DocumentGroup>

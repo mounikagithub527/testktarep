@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessRule xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Id>25140046D9124F5B839C940916D7AD20</Id>
+    <Name>TruncateToLength</Name>
+    <Version>4</Version>
+    <ProcessId />
+  </Identity>
+  <LatestVersion>false</LatestVersion>
+  <Version>4</Version>
+  <ProcessIdentity>
+    <Id>532174E658C2469FA2436D558E833245</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>4</Version>
+    <Name>TruncateToLength</Name>
+  </ProcessIdentity>
+  <RuleType>Process</RuleType>
+  <CategoryIdentity>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </CategoryIdentity>
+  <LastModifiedUserName />
+  <FlaggedForRelease>false</FlaggedForRelease>
+  <CurrentRuleView>Released</CurrentRuleView>
+  <IsRuleInUse>false</IsRuleInUse>
+  <LastModifiedUser>0AB36BF87E4D4C45ABC5A912DA1AEECF</LastModifiedUser>
+  <LastModifiedDate>2021-05-13T17:56:10.727</LastModifiedDate>
+  <WIPRuleData>
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </WIPRuleData>
+  <ReleaseRuleData>
+    <inputs>
+      <name>FIELDTEXT</name>
+      <type>8</type>
+      <description>FieldText</description>
+    </inputs>
+    <inputs>
+      <name>LENGTH</name>
+      <type>3</type>
+      <description>Length</description>
+    </inputs>
+    <outputs>
+      <name>ISVALID</name>
+      <type>11</type>
+      <description>IsValid</description>
+    </outputs>
+    <outputs>
+      <name>ERRORMESSAGE</name>
+      <type>8</type>
+      <description>ErrorMessage</description>
+    </outputs>
+    <outputs>
+      <name>FORMATTEDTEXT</name>
+      <type>8</type>
+      <description>FormattedText</description>
+    </outputs>
+    <outputs>
+      <name>FORMATTEDVALUE</name>
+      <type>8</type>
+      <description>FormattedValue</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </ReleaseRuleData>
+  <Description />
+  <Rule>
+    <inputs>
+      <name>FIELDTEXT</name>
+      <type>8</type>
+      <description>FieldText</description>
+    </inputs>
+    <inputs>
+      <name>LENGTH</name>
+      <type>3</type>
+      <description>Length</description>
+    </inputs>
+    <outputs>
+      <name>ISVALID</name>
+      <type>11</type>
+      <description>IsValid</description>
+    </outputs>
+    <outputs>
+      <name>ERRORMESSAGE</name>
+      <type>8</type>
+      <description>ErrorMessage</description>
+    </outputs>
+    <outputs>
+      <name>FORMATTEDTEXT</name>
+      <type>8</type>
+      <description>FormattedText</description>
+    </outputs>
+    <outputs>
+      <name>FORMATTEDVALUE</name>
+      <type>8</type>
+      <description>FormattedValue</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </Rule>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</BusinessRule>
