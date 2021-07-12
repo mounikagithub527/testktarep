@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FolderType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>C873740222847C05331D63A4ADB24AC8</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>rtestfolder</Name>
+  </Identity>
+  <Name>rtestfolder</Name>
+  <Description />
+  <Status>Released</Status>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+  </Category>
+  <LastModifiedDate>2021-07-12T14:42:26.79</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Mounika.Vallabhaneni</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <FieldGroups>
+    <FieldGroup>
+      <Identity>
+        <Id>EBF28CB4C599E0186ADFF78CD5CA95F9</Id>
+      </Identity>
+      <Name>Field Group 1</Name>
+      <Fields>
+        <CaptureField xsi:type="SimpleField">
+          <Identity>
+            <Id>9FC8C979FE24AF9E37A65D2CA0CA8E90</Id>
+            <Name />
+          </Identity>
+          <Name>FIELD1</Name>
+          <DisplayName>Field1</DisplayName>
+          <Description />
+          <FieldType>Text</FieldType>
+          <Validators />
+          <Verification>
+            <IsVerificationDisplayField>false</IsVerificationDisplayField>
+            <VerificationMode>Confirm</VerificationMode>
+            <CanChangeFieldValue>true</CanChangeFieldValue>
+            <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+          </Verification>
+          <IsInherited>false</IsInherited>
+          <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+          <AlwaysValid>false</AlwaysValid>
+          <IsOverridden>false</IsOverridden>
+          <IsFormatterOverridden>false</IsFormatterOverridden>
+          <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+          <Editable>false</Editable>
+          <IsOptional>false</IsOptional>
+          <FormatterInputs />
+          <FieldGroupName />
+          <FieldGroupId />
+          <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+          <AllFieldChanges>false</AllFieldChanges>
+          <MaskValueInAnalytics>false</MaskValueInAnalytics>
+          <MaskImageForHiddenField>false</MaskImageForHiddenField>
+          <IsPredefinedColumn>false</IsPredefinedColumn>
+          <DefaultValue xsi:type="xsd:string" />
+          <ChoiceItemsSource />
+          <Lookup />
+        </CaptureField>
+      </Fields>
+      <ResourceACL>
+        <ResourceIdentity>
+          <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+          <AutomaticallyPopulate>true</AutomaticallyPopulate>
+          <Name>Everyone</Name>
+          <ResourceType>GroupOfWorkers</ResourceType>
+          <EmailAddress />
+          <UserId />
+          <ManagerialLevel>0</ManagerialLevel>
+        </ResourceIdentity>
+      </ResourceACL>
+      <ImageRedactionZones />
+      <IsInherited>false</IsInherited>
+      <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+    </FieldGroup>
+  </FieldGroups>
+  <FieldValidators />
+  <FolderValidatorCollection />
+  <ChildFolderTypes>
+    <FolderType>
+      <Identity>
+        <Id>31C5551D925C543D9A34554D5D1B0B74</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder a</Name>
+      </Identity>
+      <Name>Folder a</Name>
+      <Description />
+      <Status>Released</Status>
+      <Category>
+        <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
+      </Category>
+      <LastModifiedDate>2021-07-12T14:42:26.79</LastModifiedDate>
+      <LastModifiedUser>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LastModifiedUser>
+      <LockedBy>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Mounika.Vallabhaneni</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LockedBy>
+      <LockedByModule>TotalAgilityDesigner</LockedByModule>
+      <FieldGroups>
+        <FieldGroup>
+          <Identity>
+            <Id>EBF28CB4C599E0186ADFF78CD5CA95F9</Id>
+          </Identity>
+          <Name>Field Group 1</Name>
+          <Fields>
+            <CaptureField xsi:type="SimpleField">
+              <Identity>
+                <Id>9FC8C979FE24AF9E37A65D2CA0CA8E90</Id>
+                <Name />
+              </Identity>
+              <Name>FIELD1</Name>
+              <DisplayName>Field1</DisplayName>
+              <Description />
+              <FieldType>Text</FieldType>
+              <Validators />
+              <Verification>
+                <IsVerificationDisplayField>false</IsVerificationDisplayField>
+                <VerificationMode>Confirm</VerificationMode>
+                <CanChangeFieldValue>true</CanChangeFieldValue>
+                <ShowFieldValueIfNoMatch>false</ShowFieldValueIfNoMatch>
+              </Verification>
+              <IsInherited>true</IsInherited>
+              <RequireManualFieldConfirmation>false</RequireManualFieldConfirmation>
+              <AlwaysValid>false</AlwaysValid>
+              <IsOverridden>false</IsOverridden>
+              <IsFormatterOverridden>false</IsFormatterOverridden>
+              <MonitorForAutomaticOnlineLearning>false</MonitorForAutomaticOnlineLearning>
+              <Editable>false</Editable>
+              <IsOptional>false</IsOptional>
+              <FormatterInputs />
+              <FieldGroupName />
+              <FieldGroupId />
+              <ExcludeFromAnalytics>false</ExcludeFromAnalytics>
+              <AllFieldChanges>false</AllFieldChanges>
+              <MaskValueInAnalytics>false</MaskValueInAnalytics>
+              <MaskImageForHiddenField>false</MaskImageForHiddenField>
+              <IsPredefinedColumn>false</IsPredefinedColumn>
+              <DefaultValue xsi:type="xsd:string" />
+              <ChoiceItemsSource />
+              <Lookup />
+            </CaptureField>
+          </Fields>
+          <ResourceACL>
+            <ResourceIdentity>
+              <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+              <AutomaticallyPopulate>true</AutomaticallyPopulate>
+              <Name>Everyone</Name>
+              <ResourceType>GroupOfWorkers</ResourceType>
+              <EmailAddress />
+              <UserId />
+              <ManagerialLevel>0</ManagerialLevel>
+            </ResourceIdentity>
+          </ResourceACL>
+          <ImageRedactionZones />
+          <IsInherited>true</IsInherited>
+          <MaskImageForHiddenFields>false</MaskImageForHiddenFields>
+        </FieldGroup>
+      </FieldGroups>
+      <FieldValidators />
+      <FolderValidatorCollection />
+      <ParentFolderType>
+        <Id>C873740222847C05331D63A4ADB24AC8</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>rtestfolder</Name>
+      </ParentFolderType>
+      <ChildFolderTypes />
+      <NameTemplate>[FolderType]</NameTemplate>
+      <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+      <Forms />
+      <ResourceAccessTokens />
+      <ResourcePermissionType>FullControl</ResourcePermissionType>
+    </FolderType>
+  </ChildFolderTypes>
+  <NameTemplate>[FolderType]</NameTemplate>
+  <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+  <Forms />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</FolderType>
