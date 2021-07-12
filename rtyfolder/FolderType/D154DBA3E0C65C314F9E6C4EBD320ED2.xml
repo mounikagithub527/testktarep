@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-16"?>
+<FolderType xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>D154DBA3E0C65C314F9E6C4EBD320ED2</Id>
+    <AutomaticallyPopulate>false</AutomaticallyPopulate>
+    <Version>1</Version>
+    <Name>rtyfolder</Name>
+  </Identity>
+  <Name>rtyfolder</Name>
+  <Description />
+  <Status>Released</Status>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+  </Category>
+  <LastModifiedDate>2021-07-12T14:53:48.677</LastModifiedDate>
+  <LastModifiedUser>
+    <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Mounika.Vallabhaneni</Name>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <FieldGroups />
+  <FieldValidators />
+  <FolderValidatorCollection />
+  <ChildFolderTypes>
+    <FolderType>
+      <Identity>
+        <Id>06109C791CE3917850B9219701BFF315</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder a</Name>
+      </Identity>
+      <Name>Folder a</Name>
+      <Description />
+      <Status>Released</Status>
+      <Category>
+        <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
+      </Category>
+      <LastModifiedDate>2021-07-12T14:53:48.677</LastModifiedDate>
+      <LastModifiedUser>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LastModifiedUser>
+      <LockedBy>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Mounika.Vallabhaneni</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LockedBy>
+      <LockedByModule>TotalAgilityDesigner</LockedByModule>
+      <FieldGroups />
+      <FieldValidators />
+      <FolderValidatorCollection />
+      <ParentFolderType>
+        <Id>D154DBA3E0C65C314F9E6C4EBD320ED2</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>rtyfolder</Name>
+      </ParentFolderType>
+      <ChildFolderTypes />
+      <NameTemplate>[FolderType]</NameTemplate>
+      <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+      <Forms />
+      <ResourceAccessTokens />
+      <ResourcePermissionType>FullControl</ResourcePermissionType>
+    </FolderType>
+    <FolderType>
+      <Identity>
+        <Id>2DCDE99145427054468B9DAFA1A762B9</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder b</Name>
+      </Identity>
+      <Name>Folder b</Name>
+      <Description />
+      <Status>Released</Status>
+      <Category>
+        <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
+      </Category>
+      <LastModifiedDate>2021-07-12T14:53:48.677</LastModifiedDate>
+      <LastModifiedUser>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LastModifiedUser>
+      <LockedBy>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Mounika.Vallabhaneni</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LockedBy>
+      <LockedByModule>TotalAgilityDesigner</LockedByModule>
+      <FieldGroups />
+      <FieldValidators />
+      <FolderValidatorCollection />
+      <ParentFolderType>
+        <Id>06109C791CE3917850B9219701BFF315</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder a</Name>
+      </ParentFolderType>
+      <ChildFolderTypes />
+      <NameTemplate>[FolderType]</NameTemplate>
+      <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+      <Forms />
+      <ResourceAccessTokens />
+      <ResourcePermissionType>FullControl</ResourcePermissionType>
+    </FolderType>
+    <FolderType>
+      <Identity>
+        <Id>164BF3142EF4F36B2FD07EF36FD6932E</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder c</Name>
+      </Identity>
+      <Name>Folder c</Name>
+      <Description />
+      <Status>Released</Status>
+      <Category>
+        <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name />
+      </Category>
+      <LastModifiedDate>2021-07-12T14:53:48.677</LastModifiedDate>
+      <LastModifiedUser>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LastModifiedUser>
+      <LockedBy>
+        <Id>E3441F5BDC074B5BBBE3485F9CE73729</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Mounika.Vallabhaneni</Name>
+        <ResourceType>Worker</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </LockedBy>
+      <LockedByModule>TotalAgilityDesigner</LockedByModule>
+      <FieldGroups />
+      <FieldValidators />
+      <FolderValidatorCollection />
+      <ParentFolderType>
+        <Id>2DCDE99145427054468B9DAFA1A762B9</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>Folder b</Name>
+      </ParentFolderType>
+      <ChildFolderTypes />
+      <NameTemplate>[FolderType]</NameTemplate>
+      <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+      <Forms />
+      <ResourceAccessTokens />
+      <ResourcePermissionType>FullControl</ResourcePermissionType>
+    </FolderType>
+  </ChildFolderTypes>
+  <NameTemplate>[FolderType]</NameTemplate>
+  <ProcessSubfoldersForValidation>false</ProcessSubfoldersForValidation>
+  <Forms />
+  <ResourceAccessTokens>
+    <ResourceAccess>
+      <ResourceIdentity>
+        <Id>7DF43CCDF24611D2804B00104B71BD15</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Name>Everyone</Name>
+        <ResourceType>GroupOfWorkers</ResourceType>
+        <EmailAddress />
+        <UserId />
+        <ManagerialLevel>0</ManagerialLevel>
+      </ResourceIdentity>
+      <AccessType>MaintenanceAccess</AccessType>
+      <PermissionType>FullControl</PermissionType>
+    </ResourceAccess>
+  </ResourceAccessTokens>
+  <ResourcePermissionType>FullControl</ResourcePermissionType>
+</FolderType>
