@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>51A2DF82C28F4F7A8D78FEC5EC9917A7</Id>
+    <Version>114</Version>
+    <Name>AAMInvoice</Name>
+  </Identity>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name>Default Category</Name>
+  </Category>
+  <Name>AAMInvoice</Name>
+  <Description />
+  <Status>Released</Status>
+  <LastModifiedProjectFile>2021-08-12T13:01:41.453</LastModifiedProjectFile>
+  <LastModifiedProjectFolderZip>2016-07-01T18:25:31</LastModifiedProjectFolderZip>
+  <LastModifiedUser>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedUser>
+  <LockedBy>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <OnlineLearningFolderId>6CA3981A704947119A5CAD810074097B</OnlineLearningFolderId>
+  <ProjectType>Shared</ProjectType>
+  <IsOnlineLearningEnabled>true</IsOnlineLearningEnabled>
+  <IsSeparationEnabled>true</IsSeparationEnabled>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
+  <IsSimpleProject>false</IsSimpleProject>
+  <TrainingSetPath />
+  <UsedLicenseFeatures>None</UsedLicenseFeatures>
+  <IsReadOnly>false</IsReadOnly>
+  <DoUpgrade>false</DoUpgrade>
+  <CustomVersion>0</CustomVersion>
+  <IsLimitedToOnlineLearning>false</IsLimitedToOnlineLearning>
+  <IsCaptureSolutionProject>false</IsCaptureSolutionProject>
+  <QuickClassificationBaseDocTypeId />
+</ProjectInfo>

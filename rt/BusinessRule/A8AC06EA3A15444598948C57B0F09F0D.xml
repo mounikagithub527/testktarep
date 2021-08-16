@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessRule xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Id>A8AC06EA3A15444598948C57B0F09F0D</Id>
+    <Name>Product of Qty and Amount</Name>
+    <Version>3</Version>
+    <ProcessId />
+  </Identity>
+  <LatestVersion>false</LatestVersion>
+  <Version>3</Version>
+  <ProcessIdentity>
+    <Id>87ED7EEFE7664D6D95260C79A372910E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>3</Version>
+    <Name>Product of Qty and Amount</Name>
+  </ProcessIdentity>
+  <RuleType>Process</RuleType>
+  <CategoryIdentity>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </CategoryIdentity>
+  <LastModifiedUserName />
+  <FlaggedForRelease>false</FlaggedForRelease>
+  <CurrentRuleView>Released</CurrentRuleView>
+  <IsRuleInUse>false</IsRuleInUse>
+  <LastModifiedUser>B6E63A4384FCC347B3BA4BB9F6D249EF</LastModifiedUser>
+  <LastModifiedDate>2014-02-05T23:30:58</LastModifiedDate>
+  <WIPRuleData>
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </WIPRuleData>
+  <ReleaseRuleData>
+    <inputs>
+      <name>QUANTITY</name>
+      <type>2</type>
+      <description>Quantity</description>
+    </inputs>
+    <inputs>
+      <name>AMOUNT</name>
+      <type>14</type>
+      <description>Amount</description>
+    </inputs>
+    <inputs>
+      <name>INPUTPRODUCT</name>
+      <type>14</type>
+      <description>Input Product</description>
+    </inputs>
+    <outputs>
+      <name>ACCURATE</name>
+      <type>11</type>
+      <description>Accurate</description>
+    </outputs>
+    <outputs>
+      <name>MESSAGE</name>
+      <type>8</type>
+      <description>message</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </ReleaseRuleData>
+  <Description />
+  <Rule>
+    <inputs>
+      <name>QUANTITY</name>
+      <type>2</type>
+      <description>Quantity</description>
+    </inputs>
+    <inputs>
+      <name>AMOUNT</name>
+      <type>14</type>
+      <description>Amount</description>
+    </inputs>
+    <inputs>
+      <name>INPUTPRODUCT</name>
+      <type>14</type>
+      <description>Input Product</description>
+    </inputs>
+    <outputs>
+      <name>ACCURATE</name>
+      <type>11</type>
+      <description>Accurate</description>
+    </outputs>
+    <outputs>
+      <name>MESSAGE</name>
+      <type>8</type>
+      <description>message</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </Rule>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</BusinessRule>
