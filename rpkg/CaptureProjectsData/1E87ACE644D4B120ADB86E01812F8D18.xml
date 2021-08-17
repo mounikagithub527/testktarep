@@ -24,11 +24,20 @@
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
+  <LockedBy>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
   <OnlineLearningFolderId />
   <ProjectType>DocumentGroup</ProjectType>
   <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
   <IsSeparationEnabled>false</IsSeparationEnabled>
-  <LockedByModule>None</LockedByModule>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <IsSimpleProject>false</IsSimpleProject>
   <TrainingSetPath />
   <UsedLicenseFeatures>None</UsedLicenseFeatures>
