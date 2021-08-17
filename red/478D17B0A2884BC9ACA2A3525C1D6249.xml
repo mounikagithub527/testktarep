@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>478D17B0A2884BC9ACA2A3525C1D6249</Id>
     <Name>red</Name>
-    <Version>3</Version>
+    <Version>4</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-08-17T17:19:04.573</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-08-17T18:09:33.313</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>E905131494154CC080F01C954C07772E</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -149,8 +149,22 @@
     <Checklists />
     <DataModels />
     <Folders />
-    <ExtractionGroups />
-    <ClassificationGroups />
+    <ExtractionGroups>
+      <DocumentGroupIdentity>
+        <Id>1E87ACE644D4B120ADB86E01812F8D18</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>pg</Name>
+      </DocumentGroupIdentity>
+    </ExtractionGroups>
+    <ClassificationGroups>
+      <ClassificationGroupIdentity>
+        <Id>817708869A7BFBC9872F05D3F2C4E012</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>cfgfgfgf</Name>
+      </ClassificationGroupIdentity>
+    </ClassificationGroups>
     <Formatters />
     <FieldValidators />
     <ChecklistItems />
