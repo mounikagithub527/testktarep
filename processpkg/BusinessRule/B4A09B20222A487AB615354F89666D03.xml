@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BusinessRule xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Id>B4A09B20222A487AB615354F89666D03</Id>
+    <Name>New decision table</Name>
+    <Version>2</Version>
+    <ProcessId />
+  </Identity>
+  <LatestVersion>false</LatestVersion>
+  <Version>2</Version>
+  <ProcessIdentity>
+    <Id>A746561ABF7FE11C3A6C46C263E007B7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Version>2</Version>
+    <Name>New decision table</Name>
+  </ProcessIdentity>
+  <RuleType>DecisionTable</RuleType>
+  <CategoryIdentity>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </CategoryIdentity>
+  <LastModifiedUserName>Mounika.Vallabhaneni</LastModifiedUserName>
+  <FlaggedForRelease>false</FlaggedForRelease>
+  <CurrentRuleView>Released</CurrentRuleView>
+  <IsRuleInUse>false</IsRuleInUse>
+  <LastModifiedUser>E905131494154CC080F01C954C07772E</LastModifiedUser>
+  <LastModifiedDate>2021-08-12T14:12:42.213</LastModifiedDate>
+  <WIPRuleData>
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables />
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </WIPRuleData>
+  <ReleaseRuleData>
+    <inputs>
+      <name>I</name>
+      <type>8</type>
+      <description>i</description>
+    </inputs>
+    <outputs>
+      <name>G</name>
+      <type>8</type>
+      <description>g</description>
+    </outputs>
+    <outputs>
+      <name>JJ</name>
+      <type>8</type>
+      <description>jj</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables>
+        <VariableIdentity>
+          <Id>I</Id>
+          <Version>0</Version>
+          <DisplayName>i</DisplayName>
+        </VariableIdentity>
+        <VariableIdentity>
+          <Id>G</Id>
+          <Version>0</Version>
+          <DisplayName>g</DisplayName>
+        </VariableIdentity>
+        <VariableIdentity>
+          <Id>JJ</Id>
+          <Version>0</Version>
+          <DisplayName>jj</DisplayName>
+        </VariableIdentity>
+      </ShowOnTableVariables>
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </ReleaseRuleData>
+  <Description />
+  <Rule>
+    <inputs>
+      <name>I</name>
+      <type>8</type>
+      <description>i</description>
+    </inputs>
+    <outputs>
+      <name>G</name>
+      <type>8</type>
+      <description>g</description>
+    </outputs>
+    <outputs>
+      <name>JJ</name>
+      <type>8</type>
+      <description>jj</description>
+    </outputs>
+    <businessrulecalculations />
+    <decisiontabledata>
+      <HitPolicyType>First</HitPolicyType>
+      <ShowOnTableVariables>
+        <VariableIdentity>
+          <Id>I</Id>
+          <Version>0</Version>
+          <DisplayName>i</DisplayName>
+        </VariableIdentity>
+        <VariableIdentity>
+          <Id>G</Id>
+          <Version>0</Version>
+          <DisplayName>g</DisplayName>
+        </VariableIdentity>
+        <VariableIdentity>
+          <Id>JJ</Id>
+          <Version>0</Version>
+          <DisplayName>jj</DisplayName>
+        </VariableIdentity>
+      </ShowOnTableVariables>
+      <CollectPolicyOperator>None</CollectPolicyOperator>
+    </decisiontabledata>
+  </Rule>
+  <SourceControlStatus>NotInSourceControl</SourceControlStatus>
+</BusinessRule>
