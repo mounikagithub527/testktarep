@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>478D17B0A2884BC9ACA2A3525C1D6249</Id>
     <Name>red</Name>
-    <Version>2</Version>
+    <Version>3</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-08-17T17:13:14.097</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-08-17T17:19:04.573</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>E905131494154CC080F01C954C07772E</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -73,7 +73,15 @@
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
-    <BusinessRules />
+    <BusinessRules>
+      <BusinessRuleIdentity>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Id>B72647FC495D4A489B49A41643B2F27E</Id>
+        <Name>dt</Name>
+        <Version>1</Version>
+        <ProcessId />
+      </BusinessRuleIdentity>
+    </BusinessRules>
     <Assets />
     <Forms />
     <FormTemplates />
