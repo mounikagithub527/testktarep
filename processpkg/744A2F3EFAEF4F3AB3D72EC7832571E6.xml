@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>744A2F3EFAEF4F3AB3D72EC7832571E6</Id>
     <Name>processpkg</Name>
-    <Version>1</Version>
+    <Version>2</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-08-17T16:15:29.46</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-08-17T16:43:30.14</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>E905131494154CC080F01C954C07772E</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -23,6 +23,12 @@
   </LastModifiedResource>
   <Data>
     <Processes>
+      <ProcessIdentity>
+        <Id>20143AB997FC728441348F312F7D9AFF</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>New case fragment</Name>
+      </ProcessIdentity>
       <ProcessIdentity>
         <Id>52AB78E44FB5737A75AA45E4F7B3D4C5</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -38,7 +44,7 @@
       <ProcessIdentity>
         <Id>C44BF1065A5363BE154C81DF635BC451</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>3</Version>
         <Name>cf</Name>
       </ProcessIdentity>
     </Processes>
@@ -51,7 +57,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -81,7 +87,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -90,7 +96,7 @@
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
         <Id>95789A28B46D461DB0A2848495ACE6A4</Id>
         <Name>brdec</Name>
-        <Version>2</Version>
+        <Version>3</Version>
         <ProcessId />
       </BusinessRuleIdentity>
       <BusinessRuleIdentity>
@@ -240,6 +246,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>processpkg</GitFolderName>
   </Data>
   <Comments />
   <ResourceAccessTokens>
