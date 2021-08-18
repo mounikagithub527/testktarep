@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DataModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>6C7FC02CBA11D3E4FE1C0F59FCA356DC</Id>
+    <Version>1</Version>
+    <Name>TestDAtaModel</Name>
+  </Identity>
+  <Category>
+    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </Category>
+  <Data>
+    <Fields>
+      <DataModelField>
+        <Identity>
+          <Id>C4E6B403B94E30FE649FFC4E243F954C</Id>
+          <Name>FIELD1</Name>
+          <DisplayName>Field1</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+      <DataModelField>
+        <Identity>
+          <Id>C336D5CEB4B05908F43E7E1E8CC122FB</Id>
+          <Name>FIELD2</Name>
+          <DisplayName>Field2</DisplayName>
+        </Identity>
+        <Type>Text</Type>
+        <DefaultValue xsi:type="xsd:string" />
+        <SubFields />
+        <IsUnnamed>false</IsUnnamed>
+        <Scope>Public</Scope>
+      </DataModelField>
+    </Fields>
+    <Scope>Public</Scope>
+  </Data>
+  <Status>Released</Status>
+  <Description />
+  <LockedBy>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
+  <OwnerId>F82E90B887B104499968134CE97346A6</OwnerId>
+  <LastModifiedDate>2021-08-18T12:59:10.91</LastModifiedDate>
+  <LastModifiedBy>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedBy>
+</DataModel>
