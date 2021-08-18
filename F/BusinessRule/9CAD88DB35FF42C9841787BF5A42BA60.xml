@@ -4,15 +4,15 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Id>9CAD88DB35FF42C9841787BF5A42BA60</Id>
     <Name>TestFlowRule</Name>
-    <Version>1</Version>
+    <Version>2</Version>
     <ProcessId />
   </Identity>
   <LatestVersion>false</LatestVersion>
-  <Version>1</Version>
+  <Version>2</Version>
   <ProcessIdentity>
     <Id>7B437A067856BB8EB7BE1329097330E5</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>TestFlowRule</Name>
   </ProcessIdentity>
   <RuleType>Process</RuleType>
@@ -26,7 +26,7 @@
   <CurrentRuleView>Released</CurrentRuleView>
   <IsRuleInUse>false</IsRuleInUse>
   <LastModifiedUser>E905131494154CC080F01C954C07772E</LastModifiedUser>
-  <LastModifiedDate>2021-08-18T12:55:42.227</LastModifiedDate>
+  <LastModifiedDate>2021-08-18T13:19:29.453</LastModifiedDate>
   <WIPRuleData>
     <decisiontabledata>
       <HitPolicyType>First</HitPolicyType>
