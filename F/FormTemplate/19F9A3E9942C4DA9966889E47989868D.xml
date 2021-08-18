@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-16"?>
 <SimpleForm xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <DBVersion>7.10</DBVersion>
+  <DBVersion />
   <FormType>SimpleForm</FormType>
   <FormIdentity>
     <Id>19F9A3E9942C4DA9966889E47989868D</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>TestFormTemplate</Name>
-    <Version>1</Version>
+    <Version>2</Version>
   </FormIdentity>
   <Title>New Form Title</Title>
   <Width>1300</Width>
   <Height>528</Height>
-  <LastModifiedDateTime>2021-08-18T12:58:29.1338612+05:30</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-08-18T13:20:14.9832144+05:30</LastModifiedDateTime>
   <InternalModifiedDate>0001-01-01T00:00:00</InternalModifiedDate>
   <LastModifiedByUser>E905131494154CC080F01C954C07772E</LastModifiedByUser>
   <Columns>
@@ -110,14 +110,6 @@
   <FormEvents>
     <FormEvent>
       <EventType>Loaded</EventType>
-      <Actions />
-    </FormEvent>
-    <FormEvent>
-      <EventType>BeforeRender</EventType>
-      <Actions />
-    </FormEvent>
-    <FormEvent>
-      <EventType>AfterRender</EventType>
       <Actions />
     </FormEvent>
   </FormEvents>
