@@ -2,18 +2,18 @@
 <ProjectInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Identity>
     <Id>4A14386B0E4663D927F9E545BABFD7DC</Id>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>hjhjhjhjh</Name>
   </Identity>
   <Category>
-    <Id>201F370CA5164F76ADDD8EEEFF666AF7</Id>
+    <Id>FBCB88103B4D414FAE8E38058F46CCF4</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Name>Default Category</Name>
+    <Name>System Category</Name>
   </Category>
   <Name>hjhjhjhjh</Name>
   <Description />
   <Status>Released</Status>
-  <LastModifiedProjectFile>2021-08-18T12:25:44.07</LastModifiedProjectFile>
+  <LastModifiedProjectFile>2021-08-18T12:27:47.653</LastModifiedProjectFile>
   <LastModifiedProjectFolderZip>0001-01-01T00:00:00</LastModifiedProjectFolderZip>
   <LastModifiedUser>
     <Id>E905131494154CC080F01C954C07772E</Id>
@@ -24,11 +24,20 @@
     <UserId />
     <ManagerialLevel>0</ManagerialLevel>
   </LastModifiedUser>
+  <LockedBy>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LockedBy>
   <OnlineLearningFolderId />
   <ProjectType>ClassificationGroup</ProjectType>
   <IsOnlineLearningEnabled>false</IsOnlineLearningEnabled>
   <IsSeparationEnabled>false</IsSeparationEnabled>
-  <LockedByModule>None</LockedByModule>
+  <LockedByModule>TotalAgilityDesigner</LockedByModule>
   <IsSimpleProject>false</IsSimpleProject>
   <TrainingSetPath />
   <UsedLicenseFeatures>None</UsedLicenseFeatures>
