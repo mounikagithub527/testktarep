@@ -4,15 +4,15 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Id>840EE1FFB68140F0AB31687178C77996</Id>
     <Name>TestDecisionTree</Name>
-    <Version>1</Version>
+    <Version>2</Version>
     <ProcessId />
   </Identity>
   <LatestVersion>false</LatestVersion>
-  <Version>1</Version>
+  <Version>2</Version>
   <ProcessIdentity>
     <Id>1F7932655878985C4BBEEDA3C7CFB4C9</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
-    <Version>1</Version>
+    <Version>2</Version>
     <Name>TestDecisionTree</Name>
   </ProcessIdentity>
   <RuleType>DecisionTree</RuleType>
@@ -26,7 +26,7 @@
   <CurrentRuleView>Released</CurrentRuleView>
   <IsRuleInUse>false</IsRuleInUse>
   <LastModifiedUser>E905131494154CC080F01C954C07772E</LastModifiedUser>
-  <LastModifiedDate>2021-08-18T12:56:04.273</LastModifiedDate>
+  <LastModifiedDate>2021-08-18T13:18:39.83</LastModifiedDate>
   <WIPRuleData>
     <decisiontabledata>
       <HitPolicyType>First</HitPolicyType>
