@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>36E0B6279F514B61876F228AF60AC610</Id>
     <Name>cg</Name>
-    <Version>1</Version>
+    <Version>3</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-08-18T12:26:31.193</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-08-18T12:51:06.783</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>E905131494154CC080F01C954C07772E</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -32,7 +32,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -62,7 +62,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -141,13 +141,31 @@
         <Version>2</Version>
         <Name>pg</Name>
       </DocumentGroupIdentity>
+      <DocumentGroupIdentity>
+        <Id>96CA8C2D30389D10AD6676126C9AD1D3</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>2</Version>
+        <Name>eg</Name>
+      </DocumentGroupIdentity>
     </ExtractionGroups>
     <ClassificationGroups>
       <ClassificationGroupIdentity>
         <Id>4A14386B0E4663D927F9E545BABFD7DC</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>2</Version>
         <Name>hjhjhjhjh</Name>
+      </ClassificationGroupIdentity>
+      <ClassificationGroupIdentity>
+        <Id>EA4C7377614F24846FF863842CDB6432</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>fgfg</Name>
+      </ClassificationGroupIdentity>
+      <ClassificationGroupIdentity>
+        <Id>7DA55798A3ED243B22690F85D7D2E9DC</Id>
+        <AutomaticallyPopulate>true</AutomaticallyPopulate>
+        <Version>1</Version>
+        <Name>df</Name>
       </ClassificationGroupIdentity>
     </ClassificationGroups>
     <Formatters />
@@ -207,6 +225,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>cg</GitFolderName>
   </Data>
   <Comments />
   <ResourceAccessTokens>
