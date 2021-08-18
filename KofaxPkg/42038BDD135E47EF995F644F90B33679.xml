@@ -32,13 +32,13 @@
       <ProcessIdentity>
         <Id>C9B51F60D834ED8B77FB1F54623B7FBE</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>2</Version>
         <Name>CaseDefTest</Name>
       </ProcessIdentity>
       <ProcessIdentity>
         <Id>DE86F42B6B9838B79CF93857E82C7500</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>1</Version>
+        <Version>2</Version>
         <Name>ProcessTest</Name>
       </ProcessIdentity>
     </Processes>
@@ -51,7 +51,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -81,7 +81,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -274,6 +274,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>KofaxPkg</GitFolderName>
   </Data>
   <Comments />
   <ResourceAccessTokens>
