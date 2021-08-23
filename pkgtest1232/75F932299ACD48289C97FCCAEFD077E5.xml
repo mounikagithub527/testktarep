@@ -3,7 +3,7 @@
   <SpaPackageIdentity>
     <Id>75F932299ACD48289C97FCCAEFD077E5</Id>
     <Name>pkgtest1232</Name>
-    <Version>1</Version>
+    <Version>2</Version>
   </SpaPackageIdentity>
   <Description />
   <CategoryIdentity>
@@ -11,7 +11,7 @@
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
     <Name>Default Category</Name>
   </CategoryIdentity>
-  <LastModifiedDateTime>2021-08-23T20:19:13.967</LastModifiedDateTime>
+  <LastModifiedDateTime>2021-08-23T20:23:56.25</LastModifiedDateTime>
   <LastModifiedResource>
     <Id>E905131494154CC080F01C954C07772E</Id>
     <AutomaticallyPopulate>true</AutomaticallyPopulate>
@@ -26,7 +26,7 @@
       <ProcessIdentity>
         <Id>DE86F42B6B9838B79CF93857E82C7500</Id>
         <AutomaticallyPopulate>true</AutomaticallyPopulate>
-        <Version>2</Version>
+        <Version>3</Version>
         <Name>ProcessTest</Name>
       </ProcessIdentity>
     </Processes>
@@ -39,7 +39,7 @@
       <GeneralizedExport>false</GeneralizedExport>
       <ExportDotNetReferencesWithPath>true</ExportDotNetReferencesWithPath>
       <ExportCaseFragments>false</ExportCaseFragments>
-      <ExportTemplateSkins>true</ExportTemplateSkins>
+      <ExportTemplateSkins>false</ExportTemplateSkins>
       <ExportExtractionClassificationData>true</ExportExtractionClassificationData>
       <ExportGlobalDataModels>false</ExportGlobalDataModels>
       <ExportProcessDataModels>false</ExportProcessDataModels>
@@ -69,7 +69,7 @@
       <ExportReportingTags>false</ExportReportingTags>
       <ExportTestPlans>false</ExportTestPlans>
       <IncludeProcessAssociationsInPackage>false</IncludeProcessAssociationsInPackage>
-      <IsGitExport>true</IsGitExport>
+      <IsGitExport>false</IsGitExport>
     </ProcessExportOption>
     <WorkAllocationRules />
     <Skins />
@@ -192,7 +192,16 @@
     <ErrorList />
     <CaptureControlLayouts />
     <CustomServiceIdentities />
-    <CustomServiceGroupIdentities />
+    <CustomServiceGroupIdentities>
+      <CustomServiceGroupIdentity>
+        <Id>03DC7C20B87845B889BC8A167DE71181</Id>
+        <Name>rtrtr</Name>
+      </CustomServiceGroupIdentity>
+      <CustomServiceGroupIdentity>
+        <Id>3DA5E2D0ED4F4CE78E759C2F7227F5EC</Id>
+        <Name>vbbbbbbbbb</Name>
+      </CustomServiceGroupIdentity>
+    </CustomServiceGroupIdentities>
     <CaptureSolutionIdentity>
       <Id />
       <Name />
@@ -206,6 +215,7 @@
       <Name />
       <Version>0</Version>
     </QuickApp>
+    <GitFolderName>pkgtest1232</GitFolderName>
   </Data>
   <Comments />
   <ResourceAccessTokens>

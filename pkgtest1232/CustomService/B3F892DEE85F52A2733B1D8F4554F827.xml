@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-16"?>
+<CustomService xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Identity>
+    <Id>B3F892DEE85F52A2733B1D8F4554F827</Id>
+    <Name>ccs</Name>
+    <Version>1</Version>
+    <Group>
+      <Id>3DA5E2D0ED4F4CE78E759C2F7227F5EC</Id>
+      <Name>vbbbbbbbbb</Name>
+    </Group>
+  </Identity>
+  <Category>
+    <Id>B672E1A9A90F4470A5D8D0B2587DC4A9</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <Name />
+  </Category>
+  <Data>
+    <Owner />
+    <Inputs />
+    <Outputs />
+  </Data>
+  <LastModifiedDate>2021-08-23T20:22:07.437</LastModifiedDate>
+  <LastModifiedBy>
+    <Id>E905131494154CC080F01C954C07772E</Id>
+    <AutomaticallyPopulate>true</AutomaticallyPopulate>
+    <ResourceType>Worker</ResourceType>
+    <EmailAddress />
+    <UserId />
+    <ManagerialLevel>0</ManagerialLevel>
+  </LastModifiedBy>
+</CustomService>
